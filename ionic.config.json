@@ -1,0 +1,7 @@
+{
+  "name": "Front Pages",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
